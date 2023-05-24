@@ -45,5 +45,5 @@ As a cloud engineering consultant, I have utilized my skills on various projects
 | GDPR                  | 83%   |
 | GIT                   | 78%   |
 | AZ - 900              | 780   |
-| 7 Changes             |       |
-| Docker                |       |
+| 7 Changes             | 140   |
+| Docker                | 100%  |
