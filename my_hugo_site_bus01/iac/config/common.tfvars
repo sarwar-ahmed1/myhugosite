@@ -1,0 +1,5 @@
+user     = "bus01"
+cohort   = "ce05"
+purpose  = "hugo"
+location = "North Europe"
+pod_tag  = "Bushey"

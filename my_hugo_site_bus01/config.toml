@@ -1,0 +1,6 @@
+baseURL = '/'
+languageCode = 'en-us'
+title = 'My New Hugo Site'
+theme = "ananke" 
+[params]
+    recent_posts_number = 11
